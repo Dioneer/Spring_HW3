@@ -1,7 +1,7 @@
 package Pegas.dto;
 
-import jakarta.persistence.Column;
 import lombok.Value;
+import org.springframework.stereotype.Component;
 
 @Value
 public class UserReadDTO {
